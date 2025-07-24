@@ -1,11 +1,10 @@
-package day1;
+package day3;
 
-public class FirstProject {
+public class FileReaderDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-     System.out.print("ITS HERO TIME");
+
 	}
 
 }
-  
